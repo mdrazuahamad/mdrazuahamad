@@ -40,7 +40,12 @@ Outside of coding, I love playing football and listening to the Quran. 🎶
 - ⚡ Fun fact: I enjoy exploring new tools & frameworks and experimenting with design.  
 
 ---
----
+### Numbers
+![mdrazuahamad's Stats](https://github-readme-stats.vercel.app/api?username=mdrazuahamad&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![mdrazuahamad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdrazuahamad&theme=darcula&hide_border=true)
+
+![mdrazuahamad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrazuahamad&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Connect with Me
 
