@@ -35,7 +35,7 @@ Outside of coding, I love playing football and listening to the Quran. 🎶
 - 🌱 Always learning — because every day is an opportunity.  
 - 👯 Looking for remote & relocation opportunities.  
 - 💬 Ask me about React.js, Next.js, WordPress, APIs, and Tailwind.  
-- 📫 Reach me at: **razu.ahamad@example.com** (replace with your real email)  
+- 📫 Reach me at: **razuahamad8@gmail.com** (replace with your real email)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy exploring new tools & frameworks and experimenting with design.  
 
