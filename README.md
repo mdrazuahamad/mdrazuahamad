@@ -24,7 +24,7 @@
 I am a **Full Stack Web Developer** with a strong passion for React.js, WordPress, Shopify, Squarespace, TailwindCSS, and modern system architecture.  
 Currently, **I'm open to freelance projects and full-time opportunities**.  
 
-I actively work with WordPress themes & plugins, Laravel apps, REST APIs, and front-end frameworks.  
+I actively work with WordPress themes & plugins, REST APIs, and front-end frameworks.  
 
 Outside of coding, I love playing football and listening to the Quran. 🎶  
 
