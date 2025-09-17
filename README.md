@@ -44,9 +44,9 @@ Outside of coding, I love playing football and listening to the Quran. 🎶
 
 ### Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//mdrazuahamad/](https://www.linkedin.com/in/mdrazuahamad/))  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/MdRazuAhamad90s](https://www.facebook.com/MdRazuAhamad90s))  
-[![Instagram](https://img.shields.io/badge/Instagram-1877F2?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/fa_ra_bi_90s](https://www.instagram.com/fa_ra_bi_90s/)))  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//mdrazuahamad/])  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/MdRazuAhamad90s])  
+[![Instagram](https://img.shields.io/badge/Instagram-1877F2?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/fa_ra_bi_90s])  
 
 
 
