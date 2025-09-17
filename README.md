@@ -43,15 +43,12 @@ Outside of coding, I love playing football and listening to the Quran. 🎶
 ### Numbers
 ![mdrazuahamad's Stats](https://github-readme-stats.vercel.app/api?username=mdrazuahamad&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![mdrazuahamad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdrazuahamad&theme=darcula&hide_border=true)
-
 ![mdrazuahamad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrazuahamad&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//mdrazuahamad/])  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/MdRazuAhamad90s])  
-[![Instagram](https://img.shields.io/badge/Instagram-1877F2?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/fa_ra_bi_90s])  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdrazuahamad/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/MdRazuAhamad90s)
 
 
 
