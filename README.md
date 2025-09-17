@@ -43,7 +43,7 @@ Outside of coding, I love playing football and listening to the Quran. 🎶
 
 ### Stats
 
-![Razu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[mdrazuahamad](https://github.com/mdrazuahamad/)&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Razu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[mdrazuahamads-projects](https://github.com/mdrazuahamad/)&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![Razu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdrazuahamad&theme=darcula&hide_border=true)
 
